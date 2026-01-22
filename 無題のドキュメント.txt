@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>日記｜わたしのサイト</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <header>
+    <h1>日記</h1>
+    <nav>
+      <a href="index.html">トップ</a>
+      <a href="about.html">自己紹介</a>
+      <a href="diary.html">日記</a>
+    </nav>
+  </header>
+
+
+  <main>
+    <article class="card">
+      <h2>2026-01-22</h2>
+      <p>
+        個人サイトを作り始めました。<br>
+        少しずつ日記を書いていこうと思います。
+      </p>
+    </article>
+  </main>
+
+
+  <footer>
+    <

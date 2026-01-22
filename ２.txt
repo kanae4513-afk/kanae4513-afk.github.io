@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>自己紹介｜わたしのサイト</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <header>
+    <h1>自己紹介</h1>
+    <nav>
+      <a href="index.html">トップ</a>
+      <a href="about.html">自己紹介</a>
+      <a href="diary.html">日記</a>
+    </nav>
+  </header>
+
+
+  <main>
+    <section class="card">
+      <h2>プロフィール</h2>
+      <ul>
+        <li>名前：ななし</li>
+        <li>好きなこと：考えごと、のんびりすること</li>
+        <li>ひとこと：気ままに日記を書いています</li>
+      </ul>
+    </section>
+  </main>
+
+
+  <footer>
+    <p>© 2026 わたしのサイト</p>
+  </footer>
+</body>
+</html>

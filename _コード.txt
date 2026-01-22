@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>わたしのサイト</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <header>
+    <h1>わたしのサイト</h1>
+    <p class="subtitle">紹介と日記の個人サイト</p>
+    <nav>
+      <a href="index.html">トップ</a>
+      <a href="about.html">自己紹介</a>
+      <a href="diary.html">日記</a>
+    </nav>
+  </header>
+
+
+  <main>
+    <section class="card">
+      <h2>ようこそ</h2>
+      <p>こんにちは。このサイトでは自己紹介と日記を書いています。</p>
+    </section>
+  </main>
+
+
+  <footer>
+    <p>© 2026 わたしのサイト</p>
+  </footer>
+</body>
+</html>
